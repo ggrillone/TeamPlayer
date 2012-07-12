@@ -4,7 +4,7 @@
 
 To allow programmers effectively and efficiently communicate while building a product.
 
-*Who is the target audience*
+*Who* *is* *the* *target* *audience*
 
 Programmers
 
