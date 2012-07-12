@@ -4,21 +4,25 @@
 
 To allow programmers effectively and efficiently communicate while building a product.
 
+
 *Who* *is* *the* *target* *audience*
 
-Programmers
+* Programmers
+
 
 *What* *will* *the* *application* *do*
 
 It will allow a team to communicate back and forth, allowing them to share code and work together to solve problems that they are stuck on.
 
-*Programming Languages*
+
+*Programming* *Languages*
 
 * HTML5
 * CSS3
 * SCSS
 * jQuery
 * Ruby/Ruby on Rails
+
 
 *Tools*
 
@@ -29,9 +33,10 @@ It will allow a team to communicate back and forth, allowing them to share code 
 * Rails
 * Google+ Hangout API
 
+
 *Context*
 
-*Physical* *(where* *will* *the* *user* *be* *using* *the* *application?)*
+*Physical*
 
 * at home
 * at the office
@@ -39,16 +44,17 @@ It will allow a team to communicate back and forth, allowing them to share code 
 * at a hotel
 * outside
 
-*Media* *(what* *device(s)* *can* *the* *application* *be* *used* *on?)*
+*Media*
 
 * laptop/desktop
 
-*Modal* *(what* *will* *the* *users* *state* *of* *mind* *be* *when* *using* *the* *application?)*
+*Modal*
 
 * what is the next step for this project?
 * how do I solve this problem?
 * I don’t understand this code
 * I wish someone could help me with this program
+
 
 *The* *5ws*
 
@@ -73,15 +79,17 @@ It will allow a team to communicate back and forth, allowing them to share code 
 * at a hotel
 * outside
 
+
 *Goals* *and* *Needs*
 
-*Goals* *(what* *is* *the* *main* *goal* *of* *the* *application?)*
+*Goals*
 
 * Productivity application -> task-based app
 
-*Needs* *(what* *needs* *does* *the* *application* *fill?)*
+*Needs*
 
 * Provides communication
+
 
 *Functions* *of* *the* *Application*
 
