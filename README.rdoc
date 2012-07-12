@@ -8,82 +8,83 @@ To allow programmers effectively and efficiently communicate while building a pr
 
 Programmers
 
-*What will the application do*
+*What* *will* *the* *application* *do*
 
 It will allow a team to communicate back and forth, allowing them to share code and work together to solve problems that they are stuck on.
 
 *Programming Languages*
 
-HTML5
-CSS3
-SCSS
-jQuery
-Ruby/Ruby on Rails
+* HTML5
+* CSS3
+* SCSS
+* jQuery
+* Ruby/Ruby on Rails
 
 *Tools*
 
-Sublime Text 2
-Command line
-Mockflow
-Twitter Bootstrap
-Rails
-Google+ Hangout API
+* Sublime Text 2
+* Command line
+* Mockflow
+* Twitter Bootstrap
+* Rails
+* Google+ Hangout API
 
 *Context*
 
-Physical (where will the user be using the application?)
----------------------------------------------------------
+*Physical* *(where* *will* *the* *user* *be* *using* *the* *application?)*
+
 * at home
 * at the office
 * while traveling
 * at a hotel
 * outside
 
-Media (what device(s) can the application be used on?)
-------------------------------------------------------
+*Media* *(what* *device(s)* *can* *the* *application* *be* *used* *on?)*
+
 * laptop/desktop
 
-Modal (what will the users state of mind be when using the application?)
-------------------------------------------------------------------------
+*Modal* *(what* *will* *the* *users* *state* *of* *mind* *be* *when* *using* *the* *application?)*
+
 * what is the next step for this project?
 * how do I solve this problem?
 * I don’t understand this code
 * I wish someone could help me with this program
 
-*The 5ws*
+*The* *5ws*
 
-Who are your users?
--------------------
-Programmers
+*Who* *are* *your* *users?*
 
-What is happening?
-------------------
-They are trying to problems to complete the project
+* Programmers
 
-When will they interact?
-------------------------
-When they need help
-When they want to collaborate with team members
+*What* *is* *happening?*
 
-Where are they?
----------------
+* They are trying to problems to complete the project
+
+*When* *will* *they* *interact?*
+
+* When they need help
+* When they want to collaborate with team members
+
+*Where* *are* *they?*
+
 * at home
 * at the office
 * while traveling
 * at a hotel
 * outside
 
-*Goals and Needs*
+*Goals* *and* *Needs*
 
-Goals (what is the main goal of the application?)
--------------------------------------------------
-Productivity application -> task-based app
+*Goals* *(what* *is* *the* *main* *goal* *of* *the* *application?)*
 
-Needs (what needs does the application fill?)
----------------------------------------------
-Provides communication
+* Productivity application -> task-based app
 
-*Functions of the Application*
+*Needs* *(what* *needs* *does* *the* *application* *fill?)*
+
+* Provides communication
+
+*Functions* *of* *the* *Application*
+
 * Provide communication between a team of developers working on a project
 * Users can create new projects and assign team members
 * Users can be involved in multiple projects
