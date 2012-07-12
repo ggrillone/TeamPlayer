@@ -1,16 +1,19 @@
 == Team Player: A Rails Application
 
-*Purpose:*
+*Purpose*
 
 To allow programmers effectively and efficiently communicate while building a product.
 
-*Who is the target audience?*
+*Who is the target audience*
+
 Programmers
 
-*What will the application do?*
+*What will the application do*
+
 It will allow a team to communicate back and forth, allowing them to share code and work together to solve problems that they are stuck on.
 
-*Programming Languags*
+*Programming Languages*
+
 HTML5
 CSS3
 SCSS
@@ -18,6 +21,7 @@ jQuery
 Ruby/Ruby on Rails
 
 *Tools*
+
 Sublime Text 2
 Command line
 Mockflow
