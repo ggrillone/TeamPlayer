@@ -1,6 +1,10 @@
+07-13-2012-13:43
+
+	Made a basic user model with first name, last name, email, and password attributes.  I also added tests to validate new users.  Passwords are encrypted before being saved.  Also, added validation for new users.
+
 07-13-2012-10:23
 
-	Begin new branch: modeling-users.  The purpose of this branch is to setup the User model and add authentication to the app. 
+	Begin new branch: modeling-users.  The purpose of this branch is to setup the User model and add authentication to the app. pg_ctl -D /usr/local/var/postgres stop -s -m fast
 
 07-13-2012-10:20
 
