@@ -1,3 +1,7 @@
+07-13-2012-10:15
+
+	Added bootstrap to the sylesheets.  Added a header and footer to the layouts directory. Also added some custom styles in custom.css.scss.
+
 07-13-2012-9:34
 
 	Added the bootstrap-sass and spark gems. Also added rspec tests for static pages. Updates the routes.rb for the users_controller.
