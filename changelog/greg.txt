@@ -1,3 +1,7 @@
+07-13-2012-9:00
+
+	I removed the default index page and created a new home page and added it to routes.rb so it is the root page.
+
 07-12-2012-20:50
 
 	Update the README file.  Began defining the purpose of the application and the database layout.  Added postgres, capybara, and spec to Gemfile. I also added the User model.
