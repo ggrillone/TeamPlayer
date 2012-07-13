@@ -1,3 +1,7 @@
+07-13-2012-10:23
+
+	Begin new branch: modeling-users.  The purpose of this branch is to setup the User model and add authentication to the app. 
+
 07-13-2012-10:20
 
 	Added Conversation, Project, and Comment models. Still need to add additional columns later. Finish initial setup.
