@@ -1,0 +1,19 @@
+07-13-2012-10:20
+
+	Added Conversation, Project, and Comment models. Still need to add additional columns later. Finish initial setup.
+
+07-13-2012-10:15
+
+	Added bootstrap to the sylesheets.  Added a header and footer to the layouts directory. Also added some custom styles in custom.css.scss.
+
+07-13-2012-9:34
+
+	Added the bootstrap-sass and spark gems. Also added rspec tests for static pages. Updates the routes.rb for the users_controller.
+
+07-13-2012-9:00
+
+	I removed the default index page and created a new home page and added it to routes.rb so it is the root page.
+
+07-12-2012-20:50
+
+	Update the README file.  Began defining the purpose of the application and the database layout.  Added postgres, capybara, and spec to Gemfile. I also added the User model.
