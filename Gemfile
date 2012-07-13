@@ -4,6 +4,7 @@ gem 'rails', '3.2.6'
 gem 'pg'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
+gem 'bcrypt-ruby'
 
 group :development, :test do
 	gem 'rspec-rails'
@@ -22,8 +23,6 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-# To use ActiveModel has_secure_password
-# gem 'bcrypt-ruby', '~> 3.0.0'
 
 # To use Jbuilder templates for JSON
 # gem 'jbuilder'
