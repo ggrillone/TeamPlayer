@@ -1,0 +1,3 @@
+07-12-2012-20:50
+
+	Update the README file.  Began defining the purpose of the application and the database layout.  Added postgres, capybara, and spec to Gemfile. I also added the User model.
