@@ -1,3 +1,7 @@
+07-13-2012-10:20
+
+	Added Conversation, Project, and Comment models. Still need to add additional columns later. Finish initial setup.
+
 07-13-2012-10:15
 
 	Added bootstrap to the sylesheets.  Added a header and footer to the layouts directory. Also added some custom styles in custom.css.scss.
