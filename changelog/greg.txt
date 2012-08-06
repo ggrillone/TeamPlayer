@@ -1,0 +1,35 @@
+08-06-2012-16:51
+
+	Added additional tests to make sure page response is correct if new user signup is invalid, and also tests for if it is valid.
+
+08-06-2012-16:42
+
+	I added signup functionality with rspec tests. If the information for the form is invalid, the appropriate error messages are displayed.g
+
+07-13-2012-13:43
+
+	Made a basic user model with first name, last name, email, and password attributes.  I also added tests to validate new users.  Passwords are encrypted before being saved.  Also, added validation for new users.
+
+07-13-2012-10:23
+
+	Begin new branch: modeling-users.  The purpose of this branch is to setup the User model and add authentication to the app. pg_ctl -D /usr/local/var/postgres stop -s -m fast
+
+07-13-2012-10:20
+
+	Added Conversation, Project, and Comment models. Still need to add additional columns later. Finish initial setup.
+
+07-13-2012-10:15
+
+	Added bootstrap to the sylesheets.  Added a header and footer to the layouts directory. Also added some custom styles in custom.css.scss.
+
+07-13-2012-9:34
+
+	Added the bootstrap-sass and spark gems. Also added rspec tests for static pages. Updates the routes.rb for the users_controller.
+
+07-13-2012-9:00
+
+	I removed the default index page and created a new home page and added it to routes.rb so it is the root page.
+
+07-12-2012-20:50
+
+	Update the README file.  Began defining the purpose of the application and the database layout.  Added postgres, capybara, and spec to Gemfile. I also added the User model.
