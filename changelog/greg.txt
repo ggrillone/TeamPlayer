@@ -1,3 +1,7 @@
+08-02-2012-16:42
+
+	I added signup functionality with rspec tests. If the information for the form is invalid, the appropriate error messages are displayed.
+
 07-13-2012-13:43
 
 	Made a basic user model with first name, last name, email, and password attributes.  I also added tests to validate new users.  Passwords are encrypted before being saved.  Also, added validation for new users.
