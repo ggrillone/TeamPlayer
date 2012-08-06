@@ -1,6 +1,10 @@
-08-02-2012-16:42
+08-06-2012-16:51
 
-	I added signup functionality with rspec tests. If the information for the form is invalid, the appropriate error messages are displayed.
+	Added additional tests to make sure page response is correct if new user signup is invalid, and also tests for if it is valid.
+
+08-06-2012-16:42
+
+	I added signup functionality with rspec tests. If the information for the form is invalid, the appropriate error messages are displayed.g
 
 07-13-2012-13:43
 
