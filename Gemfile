@@ -14,6 +14,7 @@ group :test do
 	gem 'capybara'
 	gem 'guard-spork'
 	gem 'spork'
+	gem 'factory_girl_rails', '1.4.0'
 end
 
 # Gems used only for assets and not required
