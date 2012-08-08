@@ -1,3 +1,7 @@
+08-08-2012-14:31
+
+	Added sign in and sign out functionality.  I created a new controller called SessionsController to store a user session. I also added a new migration; added remember_token to User to keep the user signed in. 
+
 08-08-2012-12:32
 
 	Started new branch: sign-in-out, to add sign in and sign out functionality to the app.
