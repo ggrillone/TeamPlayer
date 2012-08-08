@@ -1,3 +1,7 @@
+08-08-2012-14:44
+
+	Started a new branch: updating-users; to add update functionality to user profiles.
+
 08-08-2012-14:31
 
 	Added sign in and sign out functionality.  I created a new controller called SessionsController to store a user session. I also added a new migration; added remember_token to User to keep the user signed in. 
